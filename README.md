@@ -1,4 +1,4 @@
-# PyWordle!
+# [PyWordle!]([url](https://addons.mozilla.org/en-US/firefox/addon/pywordle/))
 This Firefox/Chrome addon connects to a PythonAnywhere service that parses through the HTML of Wordle/Wordler to extract your current game state, calculate the best words to guess, and displays the first 5, from most to least likely. 
 *Note: I have only tested this in Firefox, but it SHOULD work in chrome, according to ChatGPT...*
 
